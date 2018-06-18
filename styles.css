@@ -1,0 +1,44 @@
+h2{
+    font-family: "Times New Roman", serif;
+    padding: 5px;
+    margin: 15px;
+}
+h3,h4,h6{
+    margin: 4px;
+    font-family: "Times New Roman", serif;
+}
+#chat{
+    background-color: #c6f1ff;
+    border: double #000000;
+    width: auto;
+    min-width: 600px;
+    height: auto;
+    min-height: 600px;
+    padding: 5px;
+    float: left;
+    margin-right: 100px;
+}
+#users{
+    background-color: lightblue;
+    border: solid #000000;
+    width: auto;
+    min-width: 300px;
+    height: auto;
+    min-height: 574px;
+    padding: 5px;
+    float: left;
+}
+
+td {
+    border: #000000;
+    border-bottom: solid #ffffff;
+    background-color: lightblue;
+    padding-right: 45px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+
+img{
+    margin: 3px;
+    border: solid #ffffff;
+}
